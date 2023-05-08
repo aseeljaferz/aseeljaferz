@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm AseelJafer</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h3 align="center"><img  src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" width="90%" alt="developer" /></h3>
+
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1451D2&width=435&lines=A+passionate+MERN+Stack+Developer" /> </h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseeljaferz&label=Profile%20views&color=0e75b6&style=flat" alt="aseeljaferz" /> </p>
 
